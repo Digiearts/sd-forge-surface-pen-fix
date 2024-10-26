@@ -1,0 +1,14 @@
+.forge-drawing-canvas {
+    touch-action: none !important;
+    -ms-touch-action: none !important;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    pointer-events: auto;
+}
+
+.forge-image-container {
+    touch-action: none;
+    -ms-touch-action: none;
+}
